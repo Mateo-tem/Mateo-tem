@@ -5,7 +5,7 @@
 <a href="https://paypal.me/MateoDeveloper"><img src="https://img.shields.io/badge/-PayPal-000000?style=flat-square&labelColor=000000&logo=paypal&logoColor=white&link=https://paypal.me/MateoDeveloper" alt="PayPal Badge"/></a>
 <a href="https://github.com/Mateo-tem"><img src="https://komarev.com/ghpvc/?username=Mateo-tem" alt="Profile Views"/></a>
 
-👋 Hello world! my name is **Mateo Medina**, from Peru. I'm a **developer** (since 2020) working with **Node.js** most of the time. At the moment, I am learning **TypeScript** and some web development stuff. I am looking forward to continuing coding and publishing many projects in the future.
+👋 Hello world! my name is **Mateo Medina**. I'm a **developer** working with **Node.js** most of the time. At the moment, I am learning **TypeScript** and some web development stuff. I am looking forward to continuing coding and publishing many projects in the future.
 
 **Why did I start coding?** When the pandemic started (2020), I joined Discord and I got curious about bots inside it. That motivated me to learn how to code bots using Node.js. I joined Hispanic coding communities which helped me to improve my abilities and, then I created mine (a small one), where I am glad to motivate young people (like me) to code.
 
@@ -29,9 +29,7 @@ const moreDetails = {
 };
 ```
   
-<h2>📊 - Stats:</h2>
+<h2>📊 Stats:</h2>
 
-<div>
-  <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/910543706489237544?bg=1f1f1f&borderRadius=5px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mateo-tem&show_icons=true&theme=radical" />
-</div>
+| <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/910543706489237544?bg=1f1f1f&borderRadius=5px"> | <img src="https://github-readme-stats.vercel.app/api?username=mateo-tem&show_icons=true&theme=radical" /> |
+|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
