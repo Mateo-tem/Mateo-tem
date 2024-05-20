@@ -1,19 +1,13 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Mateo-tem" src="https://avatars.githubusercontent.com/u/79017590?v=4">
-
 # Mateo-tem
 
-<div>
-  <a href="https://github.com/Mateo-tem"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/Mateo-tem" alt="GitHub Badge"/></a>
-  <a href="https://twitter.com/MateoTem_"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/izakdvlpr" alt="Twitter Badge"/></a>
-  <a href="https://discord.com/users/910543706489237544"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/461273822360895491" alt="Discord Badge"/></a>
+<a href="https://twitter.com/Mateotem_"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/Mateotem_" alt="Twitter Badge"/></a>
+<a href="https://discord.com/users/910543706489237544"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/910543706489237544" alt="Discord Badge"/></a>
 <a href="https://paypal.me/MateoDeveloper"><img src="https://img.shields.io/badge/-PayPal-000000?style=flat-square&labelColor=000000&logo=paypal&logoColor=white&link=https://paypal.me/MateoDeveloper" alt="PayPal Badge"/></a>
-</div>
+<a href="https://github.com/Mateo-tem"><img src="https://komarev.com/ghpvc/?username=Mateo-tem" alt="Profile Views"/></a>
 
+👋 Hello world! my name is **Mateo Medina**, from Peru. I'm a **developer** (since 2020) working with **Node.js** most of the time. At the moment, I am learning **TypeScript** and some web development stuff. I am looking forward to continuing coding and publishing many projects in the future.
 
-
----
-
-👋 Hi, my name is **Mateo**, I'm from Peru and I'm a **[Discord](https://discord.com/) Bots developer** in **JavaScript** with Node.js. At the moment, I am learning **TypeScript**. I am looking forward to continuing programming and publishing many projects that I have in mind.
+**Why did I start coding?** When the pandemic started (2020), I joined Discord and I got curious about bots inside it. That motivated me to learn how to code bots using Node.js. I joined Hispanic coding communities which helped me to improve my abilities and, then I created mine (a small one), where I am glad to motivate young people (like me) to code.
 
 > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
@@ -26,19 +20,18 @@
 <a href="https://www.heroku.com/"><img src="https://img.icons8.com/color/30/000000/heroku.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>
 
-- **Pronouns:** He/Him
-
-I started programming on **December, 2020**. With some experience, I started projects. Some failed, others are still in progress. I hope one day to fulfill these projects. Thanks to these "Little Projects", I learned (still learning) a little bit of other languages, such as **TypeScript, HTML and CSS**.
+```javascript
+const moreDetails = {
+  'name': 'Mateo Medina',
+  'pronouns': ['He/Him'],
+  'country': 'Peru',
+  'languages': ['Spanish', 'English'],
+};
+```
   
-<h2>📝 Future Goals:</h2>
-  
-- Learn other languages like **Python, HTML, CSS, R, Java**, etc.
-- Create a **Professional Discord Bot**.
-- Create **Discord Bots templates** on GitHub.
-  
-<h2>📊 Stats:</h2>
+<h2>📊 - Stats:</h2>
 
-<a href="https://github.com/Mateo-tem"><img src="https://komarev.com/ghpvc/?username=Mateo-tem" alt="Profile Views"/></a>
-
-| <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/910543706489237544?bg=1f1f1f&borderRadius=5px"> | <img src="https://github-readme-stats.vercel.app/api?username=mateo-tem&show_icons=true&theme=radical" /> |
-|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+<div>
+  <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/910543706489237544?bg=1f1f1f&borderRadius=5px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateo-tem&show_icons=true&theme=radical" />
+</div>
