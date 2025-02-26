@@ -14,7 +14,7 @@
 <a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/30/000000/typescript.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
-<a href="https://typescriptlang.org/"><img src="https://img.icons8.com/ios-glyphs/30/61dafb/react.png"/></a>
+<a href="https://react.dev/"><img src="https://img.icons8.com/ios-glyphs/30/61dafb/react.png"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/30/visual-studio-code-2019.png"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
